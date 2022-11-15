@@ -20,7 +20,7 @@ var HTTP_PORT = 7146;
 var HTTP_PATH = '/';
 
 // IP addressses of PAW nodes RPC request being forwarded to
-var ENDPOINTS_PUBLIC = [{hostname:'127.0.0.1', port:'7046', path: '/'}];
+var ENDPOINTS_PUBLIC = [{hostname:'51.91.103.54', port:'7030', path: '/public'}];
 var ENDPOINTS_PRIVATE = [{hostname:'127.0.0.1', port:'7046', path: '/'}];
 var ENDPOINTS_HEAVY = [{hostname:'127.0.0.1', port:'7046', path: '/'}];
 
