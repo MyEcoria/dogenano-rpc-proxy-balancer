@@ -1,4 +1,4 @@
-# paw-rpc-proxy-balancer
+# dogenano-rpc-proxy-balancer
 
 Acts as a proxy and forwards RPC requests to a node. Multiple nodes can be added and it will pick one at random and forward the request. 
 
